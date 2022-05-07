@@ -211,7 +211,7 @@ footer .container:first-child {
 	height: 110px;
 }
 .subscribe {
-	width: 83%;
+	width: 100%;
 	margin: auto;
 	background-color: #fff;
 	text-align: center;
@@ -223,7 +223,7 @@ footer .container:first-child {
 }
 @media (min-width: 767px) {
 	.subscribe {
-		width: 60%;
+		width: 70%;
 		margin: auto;
 		padding: 40px 40px 60px;
 	}
